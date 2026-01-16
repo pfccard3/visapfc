@@ -16,11 +16,18 @@
 更好地保护个人信息，减少黑客攻击的风险
 支持设置一次性使用，提高安全性
 
-## 平台主界面
+## 注册主界面
 
-<img width="1628" height="782" alt="1" src="https://github.com/user-attachments/assets/8dcc4951-21ed-4b6a-8227-a8b0b76b799e" />
+<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/1540895f-0472-48d3-a2bd-541992ebe842" />
 
-[注册PFCcard入口](https://payforcard.com)
+<img width="2825" height="1511" alt="1" src="https://github.com/user-attachments/assets/f0324590-717f-44e9-a627-d756ec1cb0e3" />
+
+[注册PFC入口](https://payforcard.com)
+
+## 主要卡号和用途选择
+
+<img width="2802" height="1519" alt="2" src="https://github.com/user-attachments/assets/ba12e02c-1e99-429e-821c-f038bb55e86f" />
+
 
 ## 平台什么时候建立的
 
@@ -73,6 +80,6 @@
 
 ## 注册入口
 
-[PFCcard](https://payforcard.com)
+[PFC](https://payforcard.com)
 
 
